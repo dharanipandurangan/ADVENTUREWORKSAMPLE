@@ -26,4 +26,4 @@
 | [STEP3](https://github.com/dharanipandurangan/CYCLISTICS-DATA-ANALYSIS/blob/main/PROCESS%20PHASE.md) |
 | [STEP4](https://github.com/dharanipandurangan/CYCLISTICS-DATA-ANALYSIS/blob/main/ANALYZE%20PHASE.Rmd) |
 | [STEP5](https://github.com/dharanipandurangan/CYCLISTICS-DATA-ANALYSIS/blob/main/SHARE%20PHASE.md) |
-| [STEP6](https://github.com/dharanipandurangan/CYCLISTICS-DATA-ANALYSIS/blob/main/ACT%20PHASE.md) |
+

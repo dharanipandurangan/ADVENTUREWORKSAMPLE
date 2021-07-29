@@ -17,3 +17,13 @@
 3.	Each sales person ability in each product.
 4.	Compare budget values against performance.
 5.	The budget is for 2021 and we need look 2 years back in time when we do analysis of sales.
+
+
+| DATA ANALYSIS PROCESSING STEPS  | 
+| ------------- | 
+| [STEP1](https://github.com/dharanipandurangan/CYCLISTICS-DATA-ANALYSIS/blob/main/ASK%20PHASE.md)  | 
+| [STEP2](https://github.com/dharanipandurangan/CYCLISTICS-DATA-ANALYSIS/blob/main/PREPARE%20PHASE.md) |
+| [STEP3](https://github.com/dharanipandurangan/CYCLISTICS-DATA-ANALYSIS/blob/main/PROCESS%20PHASE.md) |
+| [STEP4](https://github.com/dharanipandurangan/CYCLISTICS-DATA-ANALYSIS/blob/main/ANALYZE%20PHASE.Rmd) |
+| [STEP5](https://github.com/dharanipandurangan/CYCLISTICS-DATA-ANALYSIS/blob/main/SHARE%20PHASE.md) |
+| [STEP6](https://github.com/dharanipandurangan/CYCLISTICS-DATA-ANALYSIS/blob/main/ACT%20PHASE.md) |

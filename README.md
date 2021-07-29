@@ -1,9 +1,13 @@
 # ADVENTUREWORKSAMPLE - ANALYSIS ON SQL AND POWER BI. 
 
+ ![Data-Analysis-Careers-NDMU-Online](https://user-images.githubusercontent.com/86598565/127422186-2bd2909e-66f4-4759-b883-6ec48f2587b8.png)
+
+
 ## INTRODUCTION
 
  This case study is all about practicing and learning in SQL and PowerBI (Visualization tool) by a sample database ADVENTURE WORKS SAMPLE DATABASE and try to find the keyfindings from the task given by sales manager.
  
+
  ### EXAMPLE SENARIO 
  
  The below are key points are assigned by Sales Manager.
